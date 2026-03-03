@@ -1,0 +1,63 @@
+# ═══════════════════════════════════════════════════════════════
+# 24xRaven Bot - Git Ignore File
+# Developed by ✘ 𝙍𝘼𝙑𝙀𝙉
+# Copyright © 2026 - All Rights Reserved
+# ═══════════════════════════════════════════════════════════════
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Bot Specific
+users.json
+*.log
+*.db
+*.sqlite
+
+# Environment Variables
+.env
+config.ini
+
+# Sensitive Data
+users.json
+*.log
+*.db
+*.sqlite
+*.tmp
+*.bak
+*.cache
