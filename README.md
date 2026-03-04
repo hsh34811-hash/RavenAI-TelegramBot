@@ -16,6 +16,7 @@
 [![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)]()
 
 **بوت تليجرام احترافي متعدد الوظائف مع ذكاء اصطناعي متقدم**
+This repo was cloned from developer Raven
 
 [العربية](#arabic) • [English](#english)
 
@@ -399,3 +400,4 @@ Copyright © 2026 ✘ 𝙍𝘼𝙑𝙀𝙉 - All Rights Reserved
 </div>
 
 </div>
+
